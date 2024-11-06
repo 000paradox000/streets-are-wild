@@ -1,2 +1,3 @@
-# streets-are-wild
-Streets are Wild
+# Streets are Wild
+
+![SS](./docs/images/ss.png "SS")
